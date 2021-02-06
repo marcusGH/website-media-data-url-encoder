@@ -10,6 +10,10 @@ Use the script as follows:
 
 Specify a path to the html file to be simplified after the `-i` flag and specify the location of the output file after the `-o` flag. The `-v` flag enables verbose debug information.
 
+Example:
+
+    ./encoder.py -i test_html/index.html -o output_html.html
+
 ## Dependencies
 
 The following python modules are needed:
